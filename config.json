@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routereave",
+        "uuid": 14053312,
+        "checksum": "dlizs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
